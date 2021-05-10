@@ -19,7 +19,6 @@ replace (
 )
 
 require (
-	github.com/elastic/beats v7.6.2+incompatible
 	github.com/elastic/beats/v7 v7.9.2
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/magefile/mage v1.10.0
@@ -32,5 +31,4 @@ require (
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b
 	golang.org/x/tools v0.0.0-20200904185747-39188db58858
 	google.golang.org/appengine v1.6.6 // indirect
-	gopkg.in/mgo.v2 v2.0.0-20160818020120-3f83fa500528
 )

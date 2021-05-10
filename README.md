@@ -1,18 +1,18 @@
-# {Beat}
+# {Mongodb Slow Log Beat}
 
-Welcome to {Beat}.
+Welcome to {Mongodb Slow Log Beat}.
 
 Ensure that this folder is at the following location:
 `${GOPATH}/src/github.com/YoKoa/profilebeat`
 
-## Getting Started with {Beat}
+## Getting Started with {Mongodb Slow Log Beat}
 
 ### Requirements
 
 * [Golang](https://golang.org/dl/) 1.7
 
 ### Init Project
-To get running with {Beat} and also install the
+To get running with {Mongodb Slow Log Beat} and also install the
 dependencies, run the following command:
 
 ```
@@ -21,7 +21,7 @@ make setup
 
 It will create a clean git history for each major step. Note that you can always rewrite the history if you wish before pushing your changes.
 
-To push {Beat} in the git repository, run the following commands:
+To push {Mongodb Slow Log Beat} in the git repository, run the following commands:
 
 ```
 git remote set-url origin https://github.com/YoKoa/profilebeat
